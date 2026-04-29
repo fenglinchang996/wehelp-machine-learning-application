@@ -1,0 +1,32 @@
+/* flex */
+
+.flex {
+  display: flex;
+}
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+
+.main-content {
+  padding: 24px;
+}
+
+.header-title {
+  color: #234;
+}
+
+.section-title {
+  color: #444;
+}
+
+.section-content {
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #eee;
+}
